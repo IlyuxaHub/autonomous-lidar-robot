@@ -3,6 +3,15 @@ An autonomous mobile robot prototype designed to explore systematic coverage
 navigation as an alternative to random movement patterns commonly used by
 robotic lawn mowers.
 **Independent engineering project · 2024–2025**
+
+<p align="center">
+  <img src="media/robot_prototype.JPG" width="650" alt="Autonomous LiDAR robot prototype">
+</p>
+
+<p align="center">
+  <i>Completed physical prototype with a custom 3D-printed enclosure and 2D LiDAR.</i>
+</p>
+
 ---
 ## Overview
 Many robotic lawn mowers rely on boundary infrastructure and navigation
@@ -108,6 +117,14 @@ Technologies used:
 * RViz visualization
 * wheel-encoder odometry
 
+<p align="center">
+  <img src="media/rviz_robot_model.JPG" width="750" alt="Robot model visualized in RViz">
+</p>
+
+<p align="center">
+  <i>Virtual robot model visualized in RViz.</i>
+</p>
+
 The project included ROS packages for the robot hardware interface, control,
 description and teleoperation. Encoder integration was implemented through
 drivers connected to the ROS-based control system.
@@ -121,6 +138,21 @@ using LiDAR and build a map of its surroundings.
 
 The resulting map could then be used by the navigation system to plan robot
 motion through the environment.
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="media/lidar_mapping.JPG" alt="LiDAR-based environment map">
+    </td>
+    <td width="50%">
+      <img src="media/lidar_scan_rviz.jpg" alt="LiDAR scan visualized in RViz">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><i>Environment map generated during robot testing.</i></td>
+    <td align="center"><i>Real-time LiDAR measurements visualized in RViz.</i></td>
+  </tr>
+</table>
 
 Two navigation levels were involved:
 
