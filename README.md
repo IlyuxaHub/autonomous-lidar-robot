@@ -39,7 +39,7 @@ sports fields:
 This approach was intended to reduce unnecessary repeated motion while also
 producing a more regular coverage pattern.
 
-⸻
+---
 
 ## System Architecture
 
@@ -73,7 +73,7 @@ ROS-based software stack.
 ROS was used to integrate sensing, robot description, motion control,
 mapping and navigation.
 
-⸻
+---
 
 ## Hardware
 
@@ -91,7 +91,7 @@ The wheel encoders provide odometry information, while the LiDAR supplies
 Custom parts were designed and 3D printed to mount the onboard electronics
 and LiDAR on the physical prototype.
 
-⸻
+---
 
 ## Software
 
@@ -112,7 +112,7 @@ The project included ROS packages for the robot hardware interface, control,
 description and teleoperation. Encoder integration was implemented through
 drivers connected to the ROS-based control system.
 
-⸻
+---
 
 ## Mapping and Navigation
 
@@ -137,7 +137,7 @@ packages. The original source code is being reviewed before making more
 specific claims about which planning components were implemented or
 modified directly in this project.
 
-⸻
+---
 
 ## Results
 
@@ -156,7 +156,7 @@ The system demonstrated:
 The project served as an experimental platform for exploring how mapping and
 structured path planning can improve the movement of autonomous field robots.
 
-⸻
+---
 
 ## Demonstration Videos
 
@@ -173,7 +173,7 @@ Full project footage includes:
 
 A shorter technical demonstration will be added later.
 
-⸻
+---
 
 ## Project Documentation
 
@@ -189,7 +189,7 @@ The documentation will cover:
 * experimental results;
 * limitations and possible improvements.
 
-⸻
+---
 
 ## Current Status
 
@@ -199,7 +199,7 @@ Some original project materials and source code are currently being recovered
 and organized. The repository will therefore be expanded as the original
 technical material is reviewed.
 
-⸻
+---
 
 ## Author
 
