@@ -50,3 +50,7 @@ sports fields:
 │                           ↓   │
 │ ← ← ← ← ← ← ← ← ← ← ← ← ← │
 └───────────────────────────────┘
+```
+
+This approach was intended to reduce unnecessary repeated motion while also
+producing a more regular coverage pattern.
