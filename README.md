@@ -169,7 +169,7 @@ Full project footage includes:
 * ROS visualization and virtual robot model;
 * autonomous navigation experiments.
 
-⁠View full project footage on Google Drive
+⁠View full project footage on [Google Drive](https://drive.google.com/drive/folders/19ATJsEZQOZxSfQprEnhAnItSpBVlItQw?usp=sharing).
 
 A shorter technical demonstration will be added later.
 
