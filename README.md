@@ -148,10 +148,10 @@ motion through the environment.
 <table>
   <tr>
     <td width="50%">
-      <img src="media/lidar_mapping.JPG" alt="LiDAR-based environment map">
+      <img src="media/lidar_mapping.jpg" alt="LiDAR-based environment map">
     </td>
     <td width="50%">
-      <img src="media/lidar_scan_rviz.jpg" alt="LiDAR scan visualized in RViz">
+      <img src="media/lidar_scan_rviz.JPG" alt="LiDAR scan visualized in RViz">
     </td>
   </tr>
   <tr>
