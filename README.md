@@ -83,7 +83,7 @@ mapping and navigation.
 * DC geared motors
 * Quadrature magnetic wheel encoders
 * Motor driver and onboard power system
-* Custom CAD-designed and 3D-printed components
+* Custom-designed and 3D-printed enclosure and mechanical components
 
 The wheel encoders provide odometry information, while the LiDAR supplies
 360° range measurements of the surrounding environment.
