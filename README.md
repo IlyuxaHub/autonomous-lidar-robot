@@ -4,10 +4,16 @@ navigation as an alternative to random movement patterns commonly used by
 robotic lawn mowers.
 **Independent engineering project · 2024–2025**
 
-<p align="center">
-  <img src="media/robot_prototype.JPG" width="650" alt="Autonomous LiDAR robot prototype">
-</p>
-
+<table>
+  <tr>
+    <td width="50%">
+      <img src="media/robot_prototype_side_view.JPG" width="650" alt="Autonomous LiDAR robot prototype">
+    </td>
+    <td width="50%">
+      <img src="media/robot_prototype_front_view.JPG" alt="LiDAR scan visualized in RViz">
+    </td>
+  </tr>
+</table>
 <p align="center">
   <i>Completed physical prototype with a custom 3D-printed enclosure and 2D LiDAR.</i>
 </p>
